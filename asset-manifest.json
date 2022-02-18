@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raact-Table/static/css/main.5cd9c36b.css",
+    "main.js": "/Raact-Table/static/js/main.131cee9c.js",
+    "static/js/787.862bf71e.chunk.js": "/Raact-Table/static/js/787.862bf71e.chunk.js",
+    "index.html": "/Raact-Table/index.html",
+    "main.5cd9c36b.css.map": "/Raact-Table/static/css/main.5cd9c36b.css.map",
+    "main.131cee9c.js.map": "/Raact-Table/static/js/main.131cee9c.js.map",
+    "787.862bf71e.chunk.js.map": "/Raact-Table/static/js/787.862bf71e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd9c36b.css",
+    "static/js/main.131cee9c.js"
+  ]
+}
